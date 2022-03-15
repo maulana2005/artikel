@@ -2,7 +2,7 @@
 
     <font>
         <marquee behavior="" direction="left">
-            <h3> SELAMAT DATANG DI WEB KAMI</h3>
+            <h3> SELAMAT DATANG DI WEB KAMI.com</h3>
         </marquee>
     </font>
 
